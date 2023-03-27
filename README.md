@@ -17,7 +17,7 @@ This is an App for display NFTs in a collection by inserting the address into th
 - After rename your to .env file open and paste in your Alchemy API key.
 ```
 
-### Fetching NFTs
+### Fetching NFTs :
 
 - Type or Input the address of the collection in the input field.
 - Click the fetch NFt button and relax to see various NFTs in the collection.
