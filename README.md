@@ -19,7 +19,7 @@ This is an App for display NFTs in a collection by inserting the address into th
 
 ### Fetching NFTs :
 
-- Type or Input the address of the collection in the input field.
+- Type or Insert the address of the collection in the input field.
 - Click the fetch NFt button and relax to see various NFTs in the collection.
 - When you click on a single nft, It shows the details of the nft.
 
