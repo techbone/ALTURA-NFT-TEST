@@ -38,7 +38,7 @@ This is an App for display NFTs in a collection by inserting the address into th
     </ul>
 </details>
 
-## Author
+## Author :
 
 <details>
     <summary> Musa Muhammad Etudaye</summary>
