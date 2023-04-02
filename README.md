@@ -41,7 +41,7 @@ This is an App for display NFTs in a collection by inserting the address into th
 ## Author :
 
 <details>
-    <summary> Musa Muhammad Etudaye</summary>
+    <summary> Musa Muhammad</summary>
     <ul>
     <li><a href="https://www.github.com/techbone">Github</a></li>
     <li><a href="https://www.twitter.com/WeebAhmard">Twitter</a></li>
