@@ -21,7 +21,7 @@ This is an App for display NFTs in a collection by inserting the address into th
 
 - Type or Insert the address of the collection in the input field.
 - Click the fetch NFt button and relax to see various NFTs in the collection.
-- When you click on a single nft, It shows the details of the nft.
+- When you click on a single nft, It shows the details of the nft that's been clicked.
 
 ### Please note that the current chain is on Ethereum MainNet, Only collections created on Ethereum can be viewed.
 
@@ -41,7 +41,7 @@ This is an App for display NFTs in a collection by inserting the address into th
 ## Author :
 
 <details>
-    <summary> Musa Muhammad Etudaye</summary>
+    <summary> Musa Muhammad Etudaye.</summary>
     <ul>
     <li><a href="https://www.github.com/techbone">Github</a></li>
     <li><a href="https://www.twitter.com/WeebAhmard">Twitter</a></li>
