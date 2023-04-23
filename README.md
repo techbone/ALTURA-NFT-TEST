@@ -33,7 +33,7 @@ This is an App for display NFTs in a collection by inserting the address into th
     <summary>Project Links</summary>
     <ul>
     <li><a href="https://github.com/techbone/ALTURA-NFT-TEST">ALTURA-NFT GITHUB Repository</a></li>
-    <li><a href="https://stunning-wisp-f9781f.netlify.app">Deployed Site Link<./a></li>
+    <li><a href="https://stunning-wisp-f9781f.netlify.app">Deployed Site Link Page<./a></li>
     <li><a href="mailto:musaawwaletudaye@gmail.com">e-mail</a></li>
     </ul>
 </details>
