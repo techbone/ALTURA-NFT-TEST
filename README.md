@@ -1,6 +1,6 @@
 # AlturaNFT Test
 
-This is an App for display NFTs in a collection by inserting the address into the input field.
+This is a Web Application that display NFTs in a collection by inserting the address into the input field.
 
 ## Getting started
 
