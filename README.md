@@ -11,7 +11,7 @@ This is a Web Application that display NFTs in a collection by inserting the add
 
 ```js
 - Open your local machine terminal.
-- Clone this repo by pasting this code in your terminal machine: git clone https://github.com/techbone/ALTURA-NFT-TEST.git
+- Clone this repository by pasting this code in your terminal machine: git clone https://github.com/techbone/ALTURA-NFT-TEST.git
 - After cloning enter the repo directory and run this command to install dependencies: yarn install
 - After running yarn, create a copy of the .env.example file and rename to .env
 - After rename your to .env file open and paste in your Alchemy API key.
