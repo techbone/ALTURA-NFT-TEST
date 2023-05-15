@@ -20,7 +20,7 @@ This is a Web Application that display NFTs in a collection by inserting the add
 ### Fetching NFTs :
 
 - Type or Insert the address of the collection in the input field.
-- Click the fetch NFt button and relax to check various NFTs in the collection.
+- Click the fetch NFT button and relax to check various NFTs in the collection.
 - Then When you click on a single nft, It shows the details of the nft that is been clicked.
 
 ### Please do note that the current chain is on Ethereum MainNet, Only collections created on Ethereum can be viewed on the website platform.
