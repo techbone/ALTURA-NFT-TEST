@@ -41,7 +41,7 @@ This is a Web Application that display NFTs in a collection by inserting the add
 ## Author :
 
 <details>
-    <summary> Musa Muhammad Etudaye.</summary>
+    <summary> Musa Muhammad Etudaye AKA Gandalf.</summary>
     <ul>
     <li><a href="https://www.github.com/techbone">Github</a></li>
     <li><a href="https://www.twitter.com/WeebAhmard">Twitter</a></li>
