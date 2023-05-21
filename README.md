@@ -41,11 +41,11 @@ This is a Web Application that display NFTs in a collection by inserting the add
 ## Author :
 
 <details>
-    <summary> Musa Muhammad Etudaye AKA Gandalf.</summary>
+    <summary> Musa Muhammad Etudaye AKA Gandalf Ahmard.</summary>
     <ul>
     <li><a href="https://www.github.com/techbone">Github</a></li>
     <li><a href="https://www.twitter.com/WeebAhmard">Twitter</a></li>
-    <li><a href="mailto:musaawwaletudaye@gmail.com">e-mail</a></li>
+    <li><a href="mailto:musaawwaletudaye@gmail.com">E-mail</a></li>
     </ul>
 </details>
 
