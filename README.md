@@ -51,4 +51,4 @@ This is a Web Application that display NFTs in a collection by inserting the add
 
 # Acknowledgements
 
-- Altura-NFT
+- AlturaNFT
