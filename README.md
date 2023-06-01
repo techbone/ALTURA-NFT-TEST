@@ -53,4 +53,4 @@ This is a Web Application that display NFTs in a collection by inserting the add
 
 - AlturaNFT
 
-- SelfDevelopment
+
