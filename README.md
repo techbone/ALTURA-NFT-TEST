@@ -7,7 +7,7 @@ A Web Application : that display NFTs in a collection by inserting the address i
 > - Clone this repository to your local machine.
 > - Generate your Alchemy SDK api key.
 
-## Run the app on your local machine
+## Run up the app on your local machine
 
 ```js
 - Open your local machine terminal.
