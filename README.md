@@ -51,4 +51,4 @@ A Web Application : that display NFTs in a collection by inserting the address i
 
 # Acknowledgements
 
-- AlturaNFT
+- Altura-NFT
