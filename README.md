@@ -45,7 +45,7 @@ A Web Application : that display NFTs in a collection by inserting the address i
     <ul>
     <li><a href="https://www.github.com/techbone">GitHub</a></li>
     <li><a href="https://www.twitter.com/WeebAhmard">Twitter</a></li>
-    <li><a href="mailto:musaawwaletudaye@gmail.com">E-mail</a></li>
+    <li><a href="mailto:musaawwaletudaye@gmail.com">Email</a></li>
     </ul>
 </details>
 
