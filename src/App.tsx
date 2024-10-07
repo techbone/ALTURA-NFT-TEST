@@ -219,7 +219,7 @@ const App = () => {
                   href={`https://opensea.io/assets/ethereum/${nft.contract.address}/${nft.tokenId}`}
                   target="_blank"
                 >
-                  <Button title="Purchase NFT" />
+                  <Button title="Purchase-NFT" />
                 </a>
               </div>
             </div>
